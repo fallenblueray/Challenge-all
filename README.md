@@ -18,7 +18,7 @@ Each installable skill lives at `skills/<skill-name>/SKILL.md`. Install all eigh
 ## Codex installation
 
 ```bash
-python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
   --repo fallenblueray/Challenge-all- \
   --path \
     skills/challenge-all \
