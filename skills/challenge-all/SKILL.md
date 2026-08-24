@@ -26,13 +26,13 @@ Before analyzing, read all seven skill files:
 
 | Order | Skill | Path |
 | ----- | ----- | ---- |
-| 1 | challenge-question | `~/.cursor/skills/challenge-question/SKILL.md` |
-| 2 | challenge-unknown | `~/.cursor/skills/challenge-unknown/SKILL.md` |
-| 3 | challenge-disagree | `~/.cursor/skills/challenge-disagree/SKILL.md` |
-| 4 | challenge-edge-case | `~/.cursor/skills/challenge-edge-case/SKILL.md` |
-| 5 | challenge-scale | `~/.cursor/skills/challenge-scale/SKILL.md` |
-| 6 | challenge-execute | `~/.cursor/skills/challenge-execute/SKILL.md` |
-| 7 | challenge-rate | `~/.cursor/skills/challenge-rate/SKILL.md` |
+| 1 | challenge-question | `../challenge-question/SKILL.md` |
+| 2 | challenge-unknown | `../challenge-unknown/SKILL.md` |
+| 3 | challenge-disagree | `../challenge-disagree/SKILL.md` |
+| 4 | challenge-edge-case | `../challenge-edge-case/SKILL.md` |
+| 5 | challenge-scale | `../challenge-scale/SKILL.md` |
+| 6 | challenge-execute | `../challenge-execute/SKILL.md` |
+| 7 | challenge-rate | `../challenge-rate/SKILL.md` |
 
 If a path fails, note which skill was unavailable and continue with the rest.
 
